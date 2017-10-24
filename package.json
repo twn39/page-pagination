@@ -2,7 +2,16 @@
   "name": "page-pagination",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Weinan.tang",
+  "author": {
+    "name": "Weinan.tang",
+    "email": "twn39@163.com"
+  },
+  "keywords": [
+    "paginator",
+    "pagination",
+    "pages"
+  ],
+  "url": "https://github.com/twn39/page-pagination",
   "license": "MIT",
   "scripts": {
     "test": "ava"
