@@ -1,0 +1,13 @@
+{
+  "name": "page-pagination",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Weinan.tang",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
